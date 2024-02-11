@@ -1,75 +1,63 @@
-### Hi there 👋🏾
----
-I am Sopuruchi and I am a develper specialized in crafting cutting-edge solutions utilizing Data Science, the power of the Cloud, and Software Engineering principles.
+<div align="right">
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://getbootstrap.com" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://firebase.google.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.gatsbyjs.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://redux.js.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    </a> 
-    <a href="https://sass-lang.com" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    </a> 
-    <a href="https://tailwindcss.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-    </a> 
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sopuruchi-chisom/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sopuruchi.chisom)
+</div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cs-uche&show_icons=true&locale=en&layout=compact" alt="language-distribution" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cs-uche&show_icons=true&locale=en" alt="Github stats" />
-</p>
+<h1>Hi there 👋🏾</h1>
+<p>Welcome to my corner of the digital universe!</p>
+<p>I'm Sopuruchi, a developer with a passion for crafting cutting-edge solutions that blend the art of data science, the power of cloud computing, and the finesse of software engineering.</p>
+<p>Whether it's building predictive models, diving deep into data analysis, or architecting scalable cloud solutions, I thrive on the challenges of today's digital landscape.</p>
+<p>Come join me on this exciting journey where we turn data into insights and ideas into reality!</p>
 
 
-## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
- 
-**Version Control:** `Git` `GitLab` `Bitbucket`
-
-**Backend Development:** `Nest.js` `GraphQL` `Firebase` 
-
-**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
-
-**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
-
-## 📫 Contact
-
- For a quick response, DM me on  [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/). 
-
- #### remember copy right for the icon verify it
+<h2 align="left"> 🛠️ Toolbox</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ogheneyoma-emore-87a8341b3/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ogheneyoma-emore-87a8341b3/" height="30" width="40" />
-  </a>
+    <strong>Data Science</strong><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="80" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="80" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="80" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="80" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="80" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" alt="jupyter" width=80" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" alt="plotly" width="80" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="80" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="flask" width="70" height="60"/>
+</p>
+<p>
+    <strong>Big Data & Databases</strong><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="90" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="airflow" width="90" height="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="jupyter" width="90" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="jupyter" width="80" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="elasticsearch" width="90" height="80"/>
+</p>
+<p align="left"> 
+    <strong>Development Tools</strong><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vs-code" width="80" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="80" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" alt="bash" width="80" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="80" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" alt="nestjs" width="80" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="40"/>
+</p>
+<p align="left">
+    <strong>Cloud Services</strong><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="azure" width="80" height="70"/>
 </p>
 
-<a href="https://www.linkedin.com/in/sopuruchi-chisom/" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a>
+
+<h2 align="left"> 🔭 I’m currently working on</h2>
+    <ol>
+    <li>Building data pipelines with <b>Azure Data Factory</b> to streamline data processing workflows.</li>
+    <li>The Ops in MLOps: Implementing best practices and strategies for the operational aspects of Machine Learning Operations (<b>MLOps</b>).</li>
+    </ol>
+
+
 
 <!--
 **cs-uche/cs-uche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
