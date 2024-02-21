@@ -52,8 +52,9 @@
 
 <h2 align="left"> 🔭 I’m currently working on</h2>
     <ol>
-    <li>Building data platforms with <b>Azure Data Factory</b> to streamline data processing workflows.</li>
+    <li>Processing Big Data in a distributed environment with <b>Azure Databricks</b>.</li>
     <li>The Ops in MLOps: Implementing best practices and strategies for the operational aspects of Machine Learning Operations (<b>MLOps</b>).</li>
+    <li>Building data platforms with <b>Azure Data Factory</b> to streamline data processing workflows.</li>
     </ol>
 
 
